@@ -1,3 +1,5 @@
+
+#WELCOME TO THE HANGMAN.....
 import random
 
 words=["apple","dog","cat","fish","elephant"]
@@ -37,3 +39,4 @@ if "_" not in display:
 
 else:
     print("Fail you guessed wrong")
+
